@@ -1,8 +1,8 @@
 {
-  "name": "wordcounter",
+  "name": "react-MrWhite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://src-yahiko.github.io/react-wordcounter",
+  "homepage": "https://src-yahiko.github.io/react-MrWhite",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.16.5",
